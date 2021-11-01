@@ -7,6 +7,7 @@ namespace WhyIsMyVSSoHatefulAboutAddingAProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //change something
         }
     }
 }
